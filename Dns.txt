@@ -1,0 +1,127 @@
+# ===============================
+# MOTOROLA / LENOVO CORE
+# ===============================
+
+motorola.com
+*.motorola.com
+motorola.net
+*.motorola.net
+
+lenovo.com
+*.lenovo.com
+lenovo.net
+*.lenovo.net
+
+# ===============================
+# MOTOROLA MDM / DEVICE MGMT
+# ===============================
+
+mdm.motorola.com
+*.mdm.motorola.com
+motomdm.motorola.com
+*.motomdm.motorola.com
+emdm.motorola.com
+*.emdm.motorola.com
+device.motorola.com
+*.device.motorola.com
+devices.motorola.com
+*.devices.motorola.com
+enrollment.motorola.com
+*.enrollment.motorola.com
+oemdm.motorola.com
+*.oemdm.motorola.com
+
+# ===============================
+# MOTOROLA ACTIVATION / LOCK
+# ===============================
+
+activation.motorola.com
+*.activation.motorola.com
+activate.motorola.com
+*.activate.motorola.com
+lock.motorola.com
+*.lock.motorola.com
+status.motorola.com
+*.status.motorola.com
+
+# ===============================
+# MOTOROLA OTA / FOTA
+# ===============================
+
+fota.motorola.com
+*.fota.motorola.com
+ota.motorola.com
+*.ota.motorola.com
+updates.motorola.com
+*.updates.motorola.com
+software.motorola.com
+*.software.motorola.com
+rsd.motorola.com
+*.rsd.motorola.com
+
+# ===============================
+# MOTOROLA CLOUD / BACKEND
+# ===============================
+
+cloud.motorola.com
+*.cloud.motorola.com
+services.motorola.com
+*.services.motorola.com
+api.motorola.com
+*.api.motorola.com
+backend.motorola.com
+*.backend.motorola.com
+telemetry.motorola.com
+*.telemetry.motorola.com
+logging.motorola.com
+*.logging.motorola.com
+
+# ===============================
+# MOTOROLA ANALYTICS / TRACKING
+# ===============================
+
+analytics.motorola.com
+*.analytics.motorola.com
+stats.motorola.com
+*.stats.motorola.com
+metrics.motorola.com
+*.metrics.motorola.com
+crash.motorola.com
+*.crash.motorola.com
+
+# ===============================
+# MOTOROLA / GOOGLE MDM BRIDGE
+# ===============================
+
+androidenterprise.google.com
+mdm.google.com
+enterprise.google.com
+
+# ===============================
+# US CARRIER LOCK (MOTO)
+# ===============================
+
+vzw.com
+*.vzw.com
+device.vzw.com
+mdm.vzw.com
+
+att.com
+*.att.com
+device.att.com
+mdm.att.com
+
+t-mobile.com
+tmobile.com
+device.tmobile.com
+
+cricketwireless.com
+device.cricketwireless.com
+
+# ===============================
+# PAYJOY / FINANCE LOCK (MOTO)
+# ===============================
+
+payjoy.com
+*.payjoy.com
+device.payjoy.com
